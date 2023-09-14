@@ -4,11 +4,10 @@ This project is a heart attack risk classification system that uses machine lear
 
 <img src="./images/app-demo.png" alt="drawing" width="500"/>
 
-## Table of Contents
-
-- [Installation](#installation)
+## Table of Contents 
 - [Dataset](#dataset)
 - [Model](#model)
+- [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -44,7 +43,7 @@ git clone https://github.com/MahtabRanjbar/heart-risk-classifier.git
 
 3. Run the application:
 ```bash
-streamlit run app.py
+streamlit run src/app.py
 ```
 
 4. Access the application in your web browser at `http://localhost:8501`.
